@@ -1,6 +1,9 @@
-# Rapid-Response-Team-in-SGH_Data-Analysis-with-Python
 <h2> Introduction </h2>
-Before a pharmaceutical drug is made available to the public, it needs to go through rigorous and lengthy clinical testing and regulatory approvals, spanning 6 to 7 years and costing between $160 million to $2 billion per new drug. The testing process involves clinical trials which are conducted in 3 main phases to ensure a drug’s safety and effectiveness before it can be considered for approval. Phase 1 involves a small group of healthy volunteers to evaluate safety and determine appropriate dosage. If successful, the drug moves to Phase 2, which tests its effectiveness in a few hundred patients and continues to monitor side effects. Phase 3 expands to several hundred or thousands of patients to confirm the drug’s efficacy. Upon successful completion, the drug may be submitted for regulatory approval.
+Singapore General Hospital is trying to improve the allocation efficiency of hospital resources. I was tasked with providing actionable insights on how to better allocate hospital resource through the analysis and visualisation of Rapid Response Team (RRT) data in SGH.
+<br>
+<br>
+<h2> Problem Statement </h2>
+To provide recommendations on how to better allocate hospital resources, especically during a health crisis.
 <br>
 <br>
 <h2> Goals </h2>
@@ -9,9 +12,9 @@ Before a pharmaceutical drug is made available to the public, it needs to go thr
 <br>
 <br>
 <h2> Target Audience </h2>
-1)	The Chief Regulatory Officer (CRO) of a pharmaceutical company looking to increase the approval rate of their drug development pipeline. <br>
-2)	A Venture Capitalist in the pharma industry evaluating risk and timeline of returns on drug development investments. <br>
-3)	An Academic Researcher in the field of public health studying the factors influencing clinical trial efficiency and drug approval rates. <br>
+1)	A Doctor on the RRT who needs to make every second count and make sure patients receive the right help at the right time. <br>
+2)	Hospital Administrators who are in-charge of resource allocation, staffing levels, and strategic planning for rapid response coverage. <br>
+3)	A ward nurse who wants to be prepared during a health crisis so she can better support the RRT. <br>
 <br>
 <h2> Data Sources </h2>
 1)	SICU and MICU Triage data from SGH. <br>
