@@ -1,5 +1,5 @@
 <h2> Introduction </h2>
-Singapore General Hospital is trying to improve the allocation efficiency of hospital resources. I was tasked with providing actionable insights on how to better allocate hospital resource through the analysis and visualisation of Rapid Response Team (RRT) data in SGH.
+Singapore General Hospital (SGH) is trying to improve the allocation efficiency of hospital resources. I was tasked with providing actionable insights on how to better allocate hospital resource through the analysis and visualisation of Rapid Response Team (RRT) data in SGH.
 <br>
 <br>
 <h2> Problem Statement </h2>
